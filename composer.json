@@ -13,5 +13,11 @@
   },
   "require": {
     "silverstripe/framework": "^4"
+  },
+  "extra": {
+    "expose": [
+      "javascript",
+      "thirdparty"
+    ]
   }
 }
